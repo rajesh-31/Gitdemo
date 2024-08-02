@@ -1,1 +1,2 @@
 i checked the file and fixed the bug
+another bug fixed
